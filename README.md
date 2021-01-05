@@ -1,9 +1,6 @@
 
 ### Hi there, I'm Rahul Rao Gonda 👋
 
-[![Twitter follow @rahulrao20](https://img.shields.io/twitter/follow/rahulrao20?style=social)](https://twitter.com/rahulrao20) &nbsp;
-[![Linkedin follow @rahulraogrr](https://img.shields.io/badge/-RahulRaoGonda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulraogrr/)](https://www.linkedin.com/in/rahulraogrr/) &nbsp;
-
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
 - 🌱 I’m currently learning everything 🤣
