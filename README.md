@@ -1,9 +1,11 @@
 
 ### Hi there, I'm Rahul Rao Gonda 👋
 
+[![Twitter follow @rahulrao20](https://img.shields.io/twitter/follow/rahulrao20?style=social)](https://twitter.com/rahulrao20) &nbsp;
+[![Linkedin follow @rahulraogrr](https://img.shields.io/badge/-RahulRaoGonda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulraogrr/)](https://www.linkedin.com/in/rahulraogrr/) &nbsp;
+
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
-## I'm a Developer and Traveller!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love Reading Technical blogs, listening songs, watching Netflix
 
@@ -29,6 +31,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 <a href="https://github.com/rahulraogrr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraogrr&theme=light&count_private=true&layout=compact" alt="Rahul's most used languages" />
 </a>
+&nbsp;
 <a href="https://github.com/rahulraogrr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulraogrr&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulraogrr&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rahul's github stats"/>
 </a>
