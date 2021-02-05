@@ -25,10 +25,9 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 **Languages and Tools:**  
 
-<a href="https://github.com/rahulraogrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraogrr&theme=light&count_private=true&layout=compact" alt="Rahul's most used languages" />
-</a>
-&nbsp;
-<a href="https://github.com/rahulraogrr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulraogrr&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rahul's github stats"/>
-</a>
+<img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
