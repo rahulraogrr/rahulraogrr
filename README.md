@@ -4,7 +4,7 @@
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love Reading Technical blogs, listening songs, watching Netflix
+- ⚡ Fun fact: I love Reading Technical blogs, listening music, and watching Netflix
 
 ### Connect with me:
 
